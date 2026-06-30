@@ -6,11 +6,9 @@
 
 ## Problem Statement
 
-I don't know what my friends are up to.
-
-I don't want the pressure of formally inviting friends and waiting for their response.
-
-I want to search and grab for the occasions I want without the pressure of RSVP'ing.
+- I don't know what my friends are up to.
+- I don't want the pressure of formally inviting friends and waiting for their response.
+- I want to search and grab for the occasions I want without the pressure of RSVP'ing.
 
 ## Proposed Solution
 
